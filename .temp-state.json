@@ -1,8 +1,8 @@
 {
   "3sixty1-2sixty-testing-project": {
-    "status": "promoted",
+    "status": "temp_created",
     "temp_repo": "PraveenK071993/3sixty1-2sixty-testing-project",
-    "temp_created_at": "2026-06-03T12:52:38.151701+00:00",
+    "temp_created_at": "2026-06-03T13:41:37.453264+00:00",
     "populated_at": "2026-06-03T12:52:54.143209+00:00",
     "validated_at": "2026-06-03T13:31:52.703213+00:00",
     "validation_verdict": "PASS",
